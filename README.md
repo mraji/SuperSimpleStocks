@@ -10,6 +10,7 @@ For a given stock,
 Calculate the GBCE All Share Index using the geometric mean of prices for all stocks
 
 The Stocks data are set to :
+
 | Stock Symbol | Type    | Last Dividend | Fixed Dividend | Par Value |
 |--------------|---------|---------------|----------------|-----------|
 | TEA          |Common   |     0         |                | 100       |
