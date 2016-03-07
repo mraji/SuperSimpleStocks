@@ -26,8 +26,8 @@ mvn clean install
 ## Usage
 <b> java -jar ./target/JARNAME.jar numberOfWorkers interval </b> where :
 
-*numberOfWorkers: number of threads participating in the stock market
-*interval: the max interval between each transaction (per thread).
+* numberOfWorkers: number of threads participating in the stock market
+* interval: the max interval between each transaction (per thread).
 
 <b> java -jar ./target/JARNAME.jar </b>: This would run the GBCE with the options: 3 5000.
 
